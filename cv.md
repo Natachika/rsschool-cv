@@ -4,7 +4,7 @@
 * Phone: +37533 308 21 49  
 * E-mail: Yakimovich-1992@mail.ru  
 * Discord: наталья (Natachika)#3176
-* GitHub: Natachika  
+* GitHub: [Natachika](https://github.com/Natachika) 
 ***
 ## About me 
  My childhood dream was to work with children. Therefore, the first specialty was "Preschool education".  
