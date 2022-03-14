@@ -1,6 +1,7 @@
 <!--заголовки-->
 # Hi there, I am Natallya Polyakova, 
 ## Contact information: 
+* Belarus,Orsha
 * Phone: +37533 308 21 49  
 * E-mail: Yakimovich-1992@mail.ru  
 * Discord: наталья (Natachika)#3176
