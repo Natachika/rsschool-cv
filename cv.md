@@ -12,6 +12,7 @@
 However, while working as a kindergarten teacher, I realized that this was not what I wanted.  
 Having tried myself in other areas, I came to IT.
 Parenting and programming have something in common - by writing code, we control the behavior of an element on the page, just as by laying down certain knowledge to a child, we direct him to a certain behavior in society. 
+My main goal now is to comprehensively study programming and improve myself as a programmer. In the foreseeable future, I want to join a friendly team and develop significant projects that benefit a civilized society. 
 ***
 ## Education
 Belarusian State University 
