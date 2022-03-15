@@ -1,2 +1,1 @@
-# rsschool-cv
-# https://natachika.github.io/rsschool-cv/cv
+https://natachika.github.io/rsschool-cv/
