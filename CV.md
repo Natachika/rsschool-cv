@@ -1,11 +1,13 @@
 ### Natallia Polyakova
-## Student
+#### Student
 
 
 ### Contacts
 Belarus,Orsha
 Phone: +37533 308 21 49
+
 E-mail: Yakimovich-1992@mail.ru
+
 Discord:(Natachika)#3176
 GitHub: Natachika
 
