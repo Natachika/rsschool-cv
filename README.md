@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Natachika.github.io/rsschool-cv/cv
